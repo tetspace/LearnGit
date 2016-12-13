@@ -1,6 +1,7 @@
 /* 在头部添加了一段注释
 ** author: Bob
 ** email:  xparami@outlook.com
+** qq:     40110139
 */
 var gulp=require('gulp'),
     sass=require('gulp-sass'),// 转译scss文件为css
