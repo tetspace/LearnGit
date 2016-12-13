@@ -1,3 +1,6 @@
+/* 在头部添加了一段注释
+**
+*/
 var gulp=require('gulp'),
     sass=require('gulp-sass'),// 转译scss文件为css
     concat=require('gulp-concat'),// 将多个文件合并为一个文件
