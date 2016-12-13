@@ -1,5 +1,5 @@
 /* 在头部添加了一段注释
-**
+** author: Bob
 */
 var gulp=require('gulp'),
     sass=require('gulp-sass'),// 转译scss文件为css
